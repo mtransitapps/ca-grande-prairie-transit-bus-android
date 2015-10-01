@@ -1,4 +1,4 @@
-Title: GP Transit Bus - MonTransit
+Title: Grande Prairie Transit Bus - …
 ----------
 Short description:
 Grande Prairie Transit Bus for MonTransit.
