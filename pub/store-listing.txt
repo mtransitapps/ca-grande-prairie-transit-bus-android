@@ -5,7 +5,7 @@ Grande Prairie Transit Bus for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from November 1, 2013 to January 1, 2016.
+Schedule from November 1, 2013 to January 1, 2017.
 News from www.cityofgp.com.
 ----------
 Full description:
