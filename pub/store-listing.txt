@@ -5,7 +5,7 @@ Grande Prairie Transit Bus for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from May 27, 2019 to October 16, 2019.
+Schedule from May 27, 2019 to October 28, 2019.
 News from www.cityofgp.com.
 ----------
 Full description:
