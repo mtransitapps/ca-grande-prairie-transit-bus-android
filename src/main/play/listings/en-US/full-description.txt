@@ -1,14 +1,3 @@
-Title: Grande Prairie Transit Bus - …
-----------
-Short description:
-Grande Prairie Transit Bus for MonTransit.
-Schedule. News.
-----------
-What's new in this version?:
-Schedule from October 25, 2019 to January 21, 2020.
-News from www.cityofgp.com.
-----------
-Full description:
 This app adds Grande Prairie buses information to MonTransit.
 
 This app provides the buses schedule and news from www.cityofgp.com
@@ -17,7 +6,7 @@ GP Transit buses serve Grande Prairie in Alberta, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -31,17 +20,3 @@ This app is not related with the City of Grande Prairie and Grande Prairie Trans
 
 Permissions:
 - Other: required to read news from www.cityofgp.com.
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-grande-prairie-transit-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone:
-----------
-Privacy Policy:
