@@ -1,6 +1,6 @@
 This app adds Grande Prairie buses information to MonTransit.
 
-This app provides the buses schedule and news from www.cityofgp.com
+This app provides the buses schedule (available offline).
 
 GP Transit buses serve Grande Prairie in Alberta, Canada.
 
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-grande-prairie-transit-bus-android
 This app is not related with the City of Grande Prairie and Grande Prairie Transit (GP Transit).
 
 Permissions:
-- Other: required to read news from www.cityofgp.com.
+- Other: required to read news
