@@ -3,4 +3,5 @@
     <integer name="gtfs_rts_db_version">20250729</integer>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://cityofgp.com/contact-us</string>
+    <string name="gtfs_rts_fares">https://cityofgp.com/roads-transportation/public-transit/fares-superpass</string>
 </resources>
