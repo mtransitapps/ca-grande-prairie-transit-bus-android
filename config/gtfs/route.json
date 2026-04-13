@@ -1,0 +1,37 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "SJP",
+            "route_id": 8
+        },
+        {
+            "route_short_name": "SJS",
+            "route_id": 9
+        }
+    ],
+    "route_short_name_cleaners": [
+        {
+            "regex": "(^route )",
+            "ignore_case": true
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "direction_splitter_enabled": false,
+    "direction_splitter_enabled_comment": "not useful because all loops",
+    "direction_finder_enabled": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "( \\(.+\\)$)",
+            "ignore_case": true
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "(^([^-]+)-([^-]+)$)",
+            "ignore_case": true,
+            "replacement": "$2 - $3"
+        }
+    ]
+}
